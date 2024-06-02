@@ -1,33 +1,22 @@
-# Getting Started with Create React App
+### `Movie List Application`
+This project is a simple web application that allows users to authenticate using their Google account, manage a list of movies, and is hosted using Firebase.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Features
+`Google Authentication:` Users can log in using their Google account.
+`Movie List Management:` Users can add, view, and delete movies from their personal movie list.
+`Firebase Hosting:` The application is hosted on Firebase.
+### Technologies Used
+javascript,react,redux
+Authentication: Firebase Authentication
+Database: Firebase Firestore
+Hosting: Firebase Hosting
+Getting Started
+These instructions will help you set up the project on your local machine for development and testing purposes.
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Prerequisites
+Node.js and npm installed on your local machine.
+A Google account for Firebase setup.
+Firebase CLI installed globally (npm install -g firebase-tools).
 
 ### `Deployment link :`  https://disney-clone-afefb.web.app
 
